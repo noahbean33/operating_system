@@ -1,0 +1,1 @@
+C:\Users\marin\Documents\GitHub\linux_commands\grep\minigrep\target\debug\minigrep.exe: C:\Users\marin\Documents\GitHub\linux_commands\grep\minigrep\src\lib.rs C:\Users\marin\Documents\GitHub\linux_commands\grep\minigrep\src\main.rs
